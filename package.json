@@ -1,6 +1,6 @@
 {
     "name": "klukva-core",
-    "version": "1.3.2",
+    "version": "1.3.5",
     "description": "Library for converting Cyrillic text in Russian into Latin ",
     "author": "Nar der Levonian",
     "license": "MIT",
